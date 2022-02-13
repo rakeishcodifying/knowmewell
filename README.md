@@ -1,6 +1,6 @@
 ## First CLI App
 
-![markdown logo](https://www.google.com/imgres?imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F48%2Fe7%2F32%2F48e732005b1dc9302ae443ced9d4a341.png&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F322500023312724685%2F&tbnid=cjSE8yP1gohWuM&vet=12ahUKEwiHmqOgp_31AhU45jgGHYbmCQ8QMygAegUIARDaAQ..i&docid=vZnvvzRPZjMBWM&w=800&h=600&q=start%20logo&ved=2ahUKEwiHmqOgp_31AhU45jgGHYbmCQ8QMygAegUIARDaAQ)
+![markdown logo](https://png.pngtree.com/png-clipart/20210502/original/pngtree-quiz-png-transparent-background-png-image_6271115.jpg)
 
 Super excited to show you my first cli app which i learnt through neogcamp. 
 
